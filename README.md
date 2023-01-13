@@ -11,7 +11,7 @@ Thanks for visiting! A random joke before you go 😄
 <div><img src="https://readme-jokes.vercel.app/api?theme=ayu-mirage" alt="Jokes Card" /></div>
 <div> 
   <div>Visitor Count</div>
-<img src=https://profile-counter.glitch.me/thanhle95/count.svg/></div>
+<img src=https://profile-counter.glitch.me/viinhpham/count.svg/></div>
 </div>
 
 <!---
